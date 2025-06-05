@@ -36,8 +36,8 @@ face_recognition_project/
 ### 1. Cài đặt môi trường
 
 ```bash
-git clone https://github.com/your_username/face-recognition-project.git
-cd face-recognition-project
+git clone https://github.com/dungvu242k3/Face_Recognition.git
+cd Face_Recognition
 
 # Tạo môi trường ảo (tuỳ chọn)
 python -m venv venv
